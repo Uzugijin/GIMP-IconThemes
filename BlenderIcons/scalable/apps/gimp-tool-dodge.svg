@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="12.932263mm"
+   height="12.932263mm"
+   viewBox="0 0 12.932263 12.932264"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="gimp-tool-dodge.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.8409652"
+     inkscape:cx="262.79328"
+     inkscape:cy="36.26785"
+     inkscape:current-layer="layer1" /><defs
+     id="defs2"><rect
+       x="34.894348"
+       y="60.960003"
+       width="65.374352"
+       height="40.990349"
+       id="rect36501" /></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-150.1862,-94.179346)"><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,136.15269,48.132704)"
+       id="text36499"
+       style="font-size:40px;line-height:1.25;font-family:'Blender Mono I18n';-inkscape-font-specification:'Blender Mono I18n';white-space:pre;shape-inside:url(#rect36501);display:inline" /><path
+       style="display:inline;fill:#e0d293;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 163.0205,100.56207 h -12.68072 l 0.30589,-1.640711 0.9733,-1.97441 1.64071,-1.72414 2.39154,-0.80645 2.41935,0.19467 2.22469,0.86206 1.86317,2.11346 0.69522,2.16907 z"
+       id="path92530-6" /><path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 150.25875,100.54053 h 12.68072 l -0.30589,1.64071 -0.9733,1.97441 -1.64071,1.72414 -2.39154,0.80645 -2.41935,-0.19467 -2.22469,-0.86206 -1.86317,-2.11346 -0.69522,-2.16907 z"
+       id="path92530-6-7" /><circle
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.474001;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path92528-0"
+       cx="100.64548"
+       cy="-156.65233"
+       r="6.2291312"
+       transform="rotate(90)" /></g></svg>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 14.041611 14.042295"
+   xml:space="preserve"
+   version="1.1"
+   id="svg4996"
+   sodipodi:docname="eyedropper.svg"
+   width="14.041611"
+   height="14.042295"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs5000" /><sodipodi:namedview
+   id="namedview4998"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="35.95"
+   inkscape:cx="7.0097357"
+   inkscape:cy="7.0236439"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg4996" />
+    <g
+   fill="#ffffff"
+   id="g4994"
+   style="fill:#e5e5e5;fill-opacity:1"
+   transform="translate(-2.9827218,-2.9753365)">
+        <g
+   fill="#ffffff"
+   id="g4992"
+   style="fill:#e5e5e5;fill-opacity:1">
+            <path
+   fill="#ffffff"
+   d="m 206.727,599 a 2.65,2.65 0 0 0 -0.575,0.05 c -0.75,0.15 -1.447,0.579 -2.006,1.138 l -2.144,2.107 -1.148,-1.148 a 0.5,0.5 0 0 0 -0.36,-0.153 0.5,0.5 0 0 0 -0.348,0.86 l 1.647,1.646 -4.648,4.69 A 0.5,0.5 0 0 0 197,608.541 v 0.793 l -1.854,1.854 a 0.50027817,0.50027817 0 1 0 0.708,0.707 l 2,-2 A 0.5,0.5 0 0 0 198,609.541 v -0.795 l 4.502,-4.537 1.293,1.293 -4.504,4.539 H 198.5 a 0.5,0.5 0 0 0 -0.354,0.146 l -2,2 a 0.5006316,0.5006316 0 1 0 0.708,0.708 l 1.853,-1.854 h 0.793 a 0.5,0.5 0 0 0 0.355,-0.148 l 4.647,-4.684 1.644,1.645 a 0.5006316,0.5006316 0 1 0 0.708,-0.708 l -1.143,-1.142 2.139,-2.106 0.004,-0.004 c 0.559,-0.558 0.986,-1.255 1.136,-2.005 0.15,-0.751 -0.019,-1.584 -0.636,-2.202 A 2.345,2.345 0 0 0 206.727,599 Z"
+   transform="translate(-192.017,-596.024)"
+   id="path4990"
+   style="fill:#e5e5e5;fill-opacity:1" />
+        </g>
+    </g>
+</svg>

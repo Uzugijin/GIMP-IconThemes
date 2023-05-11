@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="9.3155375mm"
+   height="8.7848396mm"
+   viewBox="0 0 9.3155374 8.7848403"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="gimp-tool-clone.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1893044"
+     inkscape:cx="-7.5674487"
+     inkscape:cy="72.73159"
+     inkscape:current-layer="layer1" /><defs
+     id="defs2" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-59.997101,-108.16982)"><path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 64.634466,108.16982 c -1.25136,0 -1.612421,0.7768 -1.612421,1.5141 0,1.19624 0.837395,1.47379 0.837395,1.47379 l -0.07051,0.61056 c 0,0 -1.451634,0.054 -2.147123,0.18752 -0.581753,0.11168 -0.566462,1.54288 -0.566462,1.54288 h 7.255891 c 0,0 -0.06557,-1.28639 -0.633598,-1.47336 -0.596963,-0.1965 -2.178306,-0.17835 -2.178306,-0.17835 l -0.05899,-0.74722 c 0,0 0.865201,-0.24001 0.865201,-1.35679 0,-0.76988 -0.475602,-1.57313 -1.691077,-1.57313 z"
+       id="path5231"
+       sodipodi:nodetypes="ssccsccsccss" /><rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:square;stroke-dashoffset:2.20346;paint-order:markers stroke fill"
+       id="rect5285"
+       width="5.7563844"
+       height="1.1123449"
+       x="61.790756"
+       y="113.63994"
+       ry="0.55617243" /><path
+       style="fill:#95dab2;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 60.859169,115.19722 h 7.438805 l 1.014664,1.75744 h -9.315537 z"
+       id="path5287" /></g></svg>
