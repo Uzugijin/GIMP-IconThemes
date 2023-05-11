@@ -5,6 +5,7 @@ Icon themes for GIMP (Should be compatible with 2.10 and above)
 How to install:  
 Launch GIMP and go to Edit > Preferences > Folders > Icon Themes and see where it looks for the icons, put the custom icon theme in that folder.  
 Alternatively, click the button "Add a new folder" and give it a new path to search for the custom icon theme(s). (needs restart)
+There must a hicolor folder with an index.theme file in it (you can just manualy create those and index.theme can be empty) on the same path as the custom icon pack
 
 **Blender**  
 ![image_color](https://github.com/Uzugijin/GIMP-IconThemes/assets/116717813/ebf65872-e810-49c0-84d0-ea121455f9ae)  
