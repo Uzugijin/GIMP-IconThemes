@@ -1,5 +1,6 @@
 # GIMP-IconThemes
-Icon themes for GIMP (Should be compatible with 2.10 and above)
+Icon themes for GIMP (Should be compatible with 2.10 and above)  
+(in 2.99 uncheck *Use symbolic icons if available* in *Preferences *->* Icon Theme*)  
 
 **Blender**  
 ![image_color](https://github.com/Uzugijin/GIMP-IconThemes/assets/116717813/ebf65872-e810-49c0-84d0-ea121455f9ae)  
