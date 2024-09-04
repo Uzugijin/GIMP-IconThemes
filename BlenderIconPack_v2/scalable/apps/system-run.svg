@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 14.00211 14.005394"
+   xml:space="preserve"
+   version="1.1"
+   id="svg1289"
+   sodipodi:docname="gimp-gegl-legacy.svg"
+   width="14.00211"
+   height="14.005394"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1293" /><sodipodi:namedview
+   id="namedview1291"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="35.95"
+   inkscape:cx="6.9819193"
+   inkscape:cy="6.9958275"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg1289" />
+    <g
+   fill="#ffffff"
+   id="g1287"
+   style="fill:#6287d1;fill-opacity:1"
+   transform="translate(-2.9990659,-2.9979954)">
+        <path
+   fill="#ffffff"
+   d="m 14.506,263.016 a 0.55,0.55 0 0 0 -0.057,0.004 5.014,5.014 0 0 0 -3.633,2.218 c -0.754,1.141 -0.943,2.547 -0.65,3.875 l -3.523,3.522 c -0.417,0.38 -0.636,0.955 -0.66,1.613 -0.025,0.656 0.19,1.407 0.783,2 a 2.634,2.634 0 0 0 1.998,0.77 c 0.652,-0.032 1.211,-0.256 1.591,-0.637 l 3.534,-3.543 c 1.328,0.291 2.734,0.1 3.873,-0.654 a 5.018,5.018 0 0 0 2.218,-3.63 0.55,0.55 0 0 0 -0.16,-0.45 l -0.943,-0.93 a 0.55,0.55 0 0 0 -0.775,0.002 l -1.807,1.799 h -0.59 l -1.68,-1.68 v -0.59 l 1.805,-1.8 a 0.55,0.55 0 0 0 0.004,-0.776 l -0.932,-0.947 a 0.55,0.55 0 0 0 -0.396,-0.166 z m -0.156,1.173 0.316,0.323 -1.58,1.576 a 0.55,0.55 0 0 0 -0.162,0.39 l 0.002,1.047 a 0.55,0.55 0 0 0 0.162,0.387 l 2.002,2.002 a 0.55,0.55 0 0 0 0.389,0.162 l 1.046,-0.002 a 0.55,0.55 0 0 0 0.387,-0.16 l 1.58,-1.574 0.319,0.314 c -0.184,1.059 -0.752,2.015 -1.655,2.612 -0.97,0.642 -2.22,0.83 -3.33,0.492 a 0.55,0.55 0 0 0 -0.549,0.136 l -3.699,3.71 c -0.102,0.102 -0.475,0.295 -0.869,0.314 A 1.473,1.473 0 0 1 7.543,275.471 1.531,1.531 0 0 1 7.08,274.289 c 0.015,-0.395 0.21,-0.755 0.305,-0.842 a 0.55,0.55 0 0 0 0.017,-0.017 l 3.707,-3.705 a 0.55,0.55 0 0 0 0.137,-0.55 3.996,3.996 0 0 1 0.488,-3.331 c 0.598,-0.904 1.556,-1.472 2.616,-1.655 z"
+   transform="translate(-2.982,-260.018)"
+   id="path1285"
+   style="fill:#6287d1;fill-opacity:1" />
+    </g>
+</svg>
