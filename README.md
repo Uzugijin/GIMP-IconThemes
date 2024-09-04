@@ -1,7 +1,7 @@
 ## Blender Icon Theme
     
-![Blendbur_the_hedgehog_128_v2](https://github.com/user-attachments/assets/de0f3bb5-f6d1-496a-99a4-b32456b85ceb)  
-*Blender Icon theme for GIMP!*  
+![image](https://github.com/Uzugijin/GIMP-IconThemes/blob/main/Blendbur_the_hedgehog.png)  
+ *Blender Icon theme for GIMP!*  
 
 ### How to install:  
 Launch GIMP and go to Edit > Preferences > Folders > Icon Themes and see where it looks for the icons, put the custom icon theme in that folder.  
