@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4.7217579mm"
+   height="4.6337233mm"
+   viewBox="0 0 4.7217579 4.6337233"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="gimp-layer-to-imagesize.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="15.460957"
+     inkscape:cx="10.510346"
+     inkscape:cy="14.746823"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(14.243876,-17.571943)">
+    <path
+       id="rect17755"
+       style="fill:none;fill-opacity:1;stroke:#c47f77;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.582999;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m -13.87863,17.704443 v 0 h 4.2240113 v 4.203961"
+       sodipodi:nodetypes="cccc" />
+    <g
+       fill="#ffffff"
+       id="g13851"
+       style="fill:#b97e4d;fill-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-15.001997,17.685073)">
+    <path
+   d="M 8.5,8 C 8.7,8 8.9,8.1 9,8.3 l 3,6 c 0.1,0.2 0,0.5 -0.2,0.7 -0.1,0 -0.1,0.1 -0.2,0.1 h -6 C 5.2,15 5,14.8 5,14.5 5,14.4 5,14.3 5.1,14.3 l 3,-6 C 8.1,8.1 8.3,8 8.5,8 Z"
+   id="path6"
+   style="fill:#b97e4d;fill-opacity:1" />
+
+    <path
+   d="M 13.5,6 C 14.3,6 15,6.7 15,7.5 15,8.3 14.3,9 13.5,9 12.7,9 12,8.3 12,7.5 12,6.7 12.7,6 13.5,6 Z"
+   id="path8"
+   style="fill:#b97e4d;fill-opacity:1" />
+
+    <path
+   d="M 16,4 V 16 H 4 V 4 H 16 M 16.5,3 H 3.5 C 3.2,3 3,3.2 3,3.5 v 13 C 3,16.8 3.2,17 3.5,17 h 13 C 16.8,17 17,16.8 17,16.5 V 3.5 C 17,3.2 16.8,3 16.5,3 Z"
+   id="path10"
+   style="fill:#b97e4d;fill-opacity:1" />
+
+	</g>
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 14 13"
+   xml:space="preserve"
+   version="1.1"
+   id="svg21669"
+   sodipodi:docname="gimp-image-open.svg"
+   width="14"
+   height="13"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs21673" /><sodipodi:namedview
+   id="namedview21671"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="23.6"
+   inkscape:cx="8.8135593"
+   inkscape:cy="8.4745763"
+   inkscape:current-layer="svg21669" />
+    <g
+   fill="#ffffff"
+   id="g21667"
+   transform="translate(-3,-3.5)">
+        <path
+   d="M 363.5,95 A 0.5,0.5 0 0 0 363,95.5 V 99 h 14 V 97.5 A 0.5,0.5 0 0 0 376.5,97 H 368 V 95.5 A 0.5,0.5 0 0 0 367.5,95 Z"
+   fill="#ffffff"
+   transform="translate(-360,-91.5)"
+   id="path21663" />
+        <path
+   fill="#ffffff"
+   d="m 363.5,100 a 0.5,0.5 0 0 0 -0.5,0.5 v 7 a 0.5,0.5 0 0 0 0.5,0.5 h 13 a 0.5,0.5 0 0 0 0.5,-0.5 v -7 a 0.5,0.5 0 0 0 -0.5,-0.5 z"
+   transform="translate(-360,-91.5)"
+   id="path21665" />
+    </g>
+</svg>
