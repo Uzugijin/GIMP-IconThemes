@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 14.271246 16.292683"
+   xml:space="preserve"
+   version="1.1"
+   id="svg3146"
+   sodipodi:docname="gimp-paste-as-new.svg"
+   width="14.271246"
+   height="16.292683"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs3150" /><sodipodi:namedview
+   id="namedview3148"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="17.975"
+   inkscape:cx="9.0959666"
+   inkscape:cy="11.126565"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg3146"
+   inkscape:showpageshadow="2"
+   inkscape:deskcolor="#d1d1d1" />
+    <g
+   fill="#ffffff"
+   id="g3144"
+   style="fill:#e5e5e5;fill-opacity:1"
+   transform="translate(-2.728754,-3)">
+        
+        <path
+   d="m 478.5,620 a 3.5,3.5 0 1 0 0,7 3.5,3.5 0 0 0 0,-7 z m -0.5,1 h 1 v 2 h 2 v 1 h -2 v 2 h -1 v -2 h -2 v -1 h 2 z"
+   fill="#ffffff"
+   transform="translate(-465,-617)"
+   id="path3142"
+   style="fill:#e5e5e5;fill-opacity:1" />
+    </g>
+<g
+   fill="#ffffff"
+   id="g1362"
+   transform="translate(-2.997,-0.7093179)"
+   style="fill:#ffffff;fill-opacity:1">
+        <path
+   transform="translate(147.997,-134.002)"
+   fill="#ffffff"
+   d="m -144.5,139 a 0.5,0.5 0 0 0 -0.5,0.5 v 9 a 0.5,0.5 0 0 0 0.5,0.5 h 9 c 0.107,0 0.2,-0.04 0.281,-0.098 l -3.342,-3.341 a 1.5004806,1.5004806 0 1 1 2.122,-2.122 l 1.439,1.44 V 139.5 a 0.5,0.5 0 0 0 -0.5,-0.5 h -1.484 l -0.016,0.5 v 0.5 h -6 v -0.5 l 0.016,-0.5 z m 5,-2 a 0.5,0.5 0 0 1 0.5,0.5 v 0.5 h 1.5 a 0.5,0.5 0 0 1 0.516,0.5 v 0.5 h -6 v -0.5 c 0,-0.253 0.149,-0.495 0.484,-0.5 h 1.5 v -0.5 a 0.5,0.5 0 0 1 0.5,-0.5 z"
+   id="path1356"
+   style="fill:#ffffff;fill-opacity:0.497326" />
+        <g
+   fill="#ffffff"
+   id="g1360"
+   style="fill:#ffffff;fill-opacity:1">
+            <path
+   fill="#ffffff"
+   d="m -158.494,143.996 a 0.5,0.5 0 0 0 -0.05,0.004 h -3.94 a 0.5,0.5 0 1 0 0,1 h 2.793 l -5.147,5.147 a 0.5,0.5 0 1 0 0.707,0.707 l 5.147,-5.147 v 2.793 a 0.5,0.5 0 1 0 1,0 v -3.943 a 0.5,0.5 0 0 0 -0.51,-0.56 z"
+   transform="matrix(1,0,0,-1,174.983,160.998)"
+   id="path1358"
+   style="fill:#ffffff;fill-opacity:1" />
+        </g>
+    </g></svg>
